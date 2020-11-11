@@ -1,0 +1,13 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl Material.001
+Ns 430.562495
+Ka 0.750000 0.750000 0.750000
+Kd 0.800000 0.752576 0.752576
+Ks 0.458333 0.458333 0.458333
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd monkey.png

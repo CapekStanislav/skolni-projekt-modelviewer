@@ -6,4 +6,6 @@
 /out
 *.iml
 /*.jar
+/target
 /src/test
+/src/main/java/META-INF
